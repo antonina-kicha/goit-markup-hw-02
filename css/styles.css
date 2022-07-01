@@ -188,7 +188,6 @@ body {
   letter-spacing: 0.06em;
 }
 .worklist .category {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   color: var(--main-text-color);
